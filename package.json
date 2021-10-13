@@ -1,0 +1,16 @@
+{
+    "name": "course-notes",
+    "version": "1.0.0",
+    "description": "this is a frontend-course-notes project",
+    "main": "index.js",
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "repository": "git@github.com:ZaGCool/course-notes.git",
+    "author": "ZaG <1658261070@qq.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^2.0.0-beta.26"
+    }
+}
